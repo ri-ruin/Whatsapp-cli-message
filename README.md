@@ -8,3 +8,5 @@ Execution:
 java -cp "out:$(find lib -name '*.jar' | tr '\n' ':')" com.whatsapp.cli.messaging.APP
 ```
 
+Discontinued since whatsapp automation is unauthorized.
+
